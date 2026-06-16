@@ -21,7 +21,7 @@ install.packages(c(
 ))
 ```
 
-##Data
+## Data Availability
 All data analyzed in this study are derived from published trial reports and their supplementary materials. Data used for the analyses is available from the lead contact upon reasonable request.
 
 ## Citation
